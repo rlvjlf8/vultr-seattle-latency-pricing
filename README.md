@@ -1,0 +1,1 @@
+# vultr-seattle-latency-pricing
